@@ -1,4 +1,4 @@
-package org.intracode.contactmanager;
+package com.example.user.contactmanager;
 
 import android.net.Uri;
 
