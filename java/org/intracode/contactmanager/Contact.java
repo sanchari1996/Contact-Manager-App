@@ -4,9 +4,7 @@ import android.net.Uri;
 
 import java.net.URI;
 
-/**
- * Created by Teng on 08/06/2014.
- */
+
 public class Contact {
 
     private String _name, _phone, _email, _address;
