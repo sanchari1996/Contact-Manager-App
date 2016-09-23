@@ -1,2 +1,2 @@
 # Contact-Manager-App
-this is a contact manager app
+This is a contact manager app using sqlite database.
