@@ -11,9 +11,7 @@ import android.net.Uri;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * Created by Teng on 08/06/2014.
- */
+
 public class DatabaseHandler extends SQLiteOpenHelper {
 
     private static final int DATABASE_VERSION = 1;
@@ -48,7 +46,7 @@ public class DatabaseHandler extends SQLiteOpenHelper {
 
 
 
-//    CRUD methods below
+
 
 
 //    Create new contact and add it to the database
